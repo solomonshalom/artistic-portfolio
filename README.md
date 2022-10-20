@@ -1,54 +1,27 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/richard-ryan)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/richard-ryan?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/richard-ryan?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/jOA6ROBXdRE?style=social)](https://youtu.be/jOA6ROBXdRE)
+# solomonlijo.ml
 
-  <br />
-  <br />
+Dedicated to my wonderful mom! she always wanted a website and I thought of making a simple yet a pretty artistic site though I know that this is very little to what my mom does, I wanted to create something as a brand identity for her. Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:solomonlijo@skiff.com">solomonlijo@skiff.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/shalomlijo"><samp>@shalomlijo</samp></a>.
 
-  <h2 align="center">Richard Ryan - Photographer Portfolio Website</h2>
+<br>
 
-  Richard Ryan is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/richard-ryan/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Richard Ryan** locally, run this command on your git bash:
-
-Linux and macOS:
+To setup a dev environment:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/richard-ryan.git
+# Clone the repository
+
+# Open the index.html page
+cd artistic-portfolio && index.html
+
+# To open it in VS code
+code .
 ```
 
-Windows:
+To serve a production build or deploy it:
 
 ```bash
-git clone https://github.com/codewithsadee/richard-ryan.git
+# Install vercel if not already done - 'npm i -g vercel'
+
+# Build for production
+vercel deploy --prebuilt
+
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
